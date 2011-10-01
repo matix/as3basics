@@ -1,0 +1,14 @@
+<playlist>
+	<song>
+		<artist name="Muse" img="img/muse.jpg"/>
+		<track file="songs/Muse - Supermassive Black Hole.mp3" name="Supermassive Black Hole"/>
+	</song>
+	<song>
+		<artist name="Calvin Harris" img="img/calvin.jpg"/>
+		<track file="songs/01  Calvin Harris - The Rain.mp3" name="The Rain"/>
+	</song>
+	<song>
+		<artist name="Jamie Cullum" img="img/jamie.jpg" />
+		<track file="songs/Jamie Cullum - Can't We Be Friends.mp3" name="Can't We Be Friends"/>
+	</song>
+</playlist>

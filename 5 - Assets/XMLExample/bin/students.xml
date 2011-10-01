@@ -1,0 +1,26 @@
+<root>
+	<student name="Matias" surname="Figueroa">
+		<course name="Algoritmos">
+			<exam date="25/03/2011" score="10">Primer Parcial</exam>
+			<exam date="25/04/2011" score="7">Segundo Parcial</exam>
+			<exam date="25/05/2011" score="7">Trabajo Practico Integrador</exam>
+		</course>				
+		<course name="Administracion de Recursos">
+			<exam date="30/03/2011" score="8">Primer Parcial</exam>
+			<exam date="4/04/2011" score="7">Segundo Parcial</exam>
+			<exam date="4/04/2011" score="6">Tercer Parcial</exam>
+			<exam date="12/05/2011" score="9">Trabajo Practico Integrador</exam>
+		</course>
+	</student>				
+	<student name="Miguel" surname="Vargas">
+		<course name="Algoritmos">
+			<exam date="25/03/2011" score="9">Primer Parcial</exam>
+			<exam date="25/04/2011" score="9">Segundo Parcial</exam>
+			<exam date="25/05/2011" score="8">Trabajo Practico Integrador</exam>
+		</course>
+		<course name="Analisis Matematico">
+			<exam date="25/03/2011" score="9">Primer Parcial</exam>
+			<exam date="25/04/2011" score="9">Segundo Parcial</exam>
+		</course>				
+	</student>
+</root>
